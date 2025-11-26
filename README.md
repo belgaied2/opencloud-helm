@@ -1,10 +1,5 @@
-> [!CAUTION]
-> ## This repository has been archived
-> Due to the high amount of AI generated contributions and poor maintenance, this repository has been archived.
->  
-> For **production-ready Helm charts** designed for **mission-critical** workloads, please use the enterprise offering, available with a [business subscription](https://opencloud.eu/en/product/service-and-support).  
->  
-> To access **production-ready helm charts** get in touch with us via [contact form](https://opencloud.eu/en/contact-us) or Email [sales@opencloud.eu](mailto:sales@opencloud.eu).
+## WARNING
+This repo is a private Fork. No support will be offered, use at your own risk.
 
 # Community Helm Charts
 
